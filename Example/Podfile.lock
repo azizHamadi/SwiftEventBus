@@ -1,0 +1,16 @@
+PODS:
+  - SwiftEventBus (0.1.0)
+
+DEPENDENCIES:
+  - SwiftEventBus (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftEventBus:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftEventBus: 7103376ff69d2d663a93ec7c4f73bf1a61998eb1
+
+PODFILE CHECKSUM: c53dd967f77aecfb5c56b5992537c83fe61ec8ef
+
+COCOAPODS: 1.5.3

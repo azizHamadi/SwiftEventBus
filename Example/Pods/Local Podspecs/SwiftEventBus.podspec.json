@@ -1,0 +1,22 @@
+{
+  "name": "SwiftEventBus",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftEventBus.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aziz.hamadi@esprit.tn/SwiftEventBus",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aziz.hamadi@esprit.tn": "aziz.hamadi@advyteam.com"
+  },
+  "source": {
+    "git": "https://github.com/aziz.hamadi@esprit.tn/SwiftEventBus.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftEventBus/Classes/**/*"
+}
