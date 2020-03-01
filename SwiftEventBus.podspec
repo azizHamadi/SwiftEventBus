@@ -28,9 +28,13 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/azizHamadi/SwiftEventBus.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
 
-  s.source_files = 'SwiftEventBus/Classes/**/*'
+  s.source_files = 'Source/**/*.swift'
+  s.swift_version = '3.2'
+  s.platforms = {
+      "ios": "12.0"
+  }
   
   # s.resource_bundles = {
   #   'SwiftEventBus' => ['SwiftEventBus/Assets/*.png']
